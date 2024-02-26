@@ -1,0 +1,465 @@
+{"level":30,"time":"2024-02-09T01:36:50.872Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Listening on 52362"}
+{"level":30,"time":"2024-02-09T01:36:51.395Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:51.396Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:51.401Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:51.401Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:51.418Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-02-09T01:36:51.903Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2024-02-09T01:36:51.904Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-02-09T01:36:51.904Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-02-09T01:36:51.911Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-09T01:36:51.912Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-09T01:36:51.927Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active context"}
+{"level":30,"time":"2024-02-09T01:36:52.206Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-09T01:36:52.207Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active page"}
+{"level":30,"time":"2024-02-09T01:36:52.723Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-09T01:36:52.729Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-09T01:36:52.730Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-09T01:36:52.774Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-09T01:36:52.780Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:52.780Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-09T01:36:52.812Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved text for element form h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-09T01:36:52.812Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:52.817Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.817Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-09T01:36:52.845Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.850Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.850Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-09T01:36:52.872Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.876Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.876Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-09T01:36:52.900Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.904Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.904Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-09T01:36:52.925Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:52.930Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-09T01:36:52.930Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-02-09T01:36:52.988Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method click"}
+{"level":30,"time":"2024-02-09T01:36:52.992Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:52.992Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.006Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.006Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.019Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.019Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.030Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.031Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.043Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.043Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.055Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.055Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.069Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.069Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.080Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.080Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.093Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.094Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.120Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.120Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.133Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.133Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.144Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.145Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.157Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.157Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.168Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.168Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.181Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.181Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.194Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.194Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.206Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.206Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.217Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.217Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.229Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.230Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.240Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.240Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.252Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.253Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.264Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.264Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.276Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.276Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.287Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.287Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.299Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.299Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.311Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.311Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.323Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.323Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.334Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.334Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.346Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.346Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.356Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.356Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.369Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.369Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.378Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-09T01:36:53.378Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.390Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.391Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.403Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Domenico Montella"}
+{"level":30,"time":"2024-02-09T01:36:53.403Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.407Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.407Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.417Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Parque Nações Unidas"}
+{"level":30,"time":"2024-02-09T01:36:53.417Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.421Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.421Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.432Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing São Paulo/SP"}
+{"level":30,"time":"2024-02-09T01:36:53.432Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-09T01:36:53.436Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:53.437Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.455Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:53.459Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:53.459Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.477Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-09T01:36:53.483Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-09T01:36:53.506Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-09T01:36:53.506Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-09T01:36:53.634Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method click"}
+{"level":30,"time":"2024-02-09T01:36:53.638Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.638Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.641Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.641Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.712Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.712Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.714Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.714Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.754Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.754Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.755Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.756Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.795Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.795Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.796Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.797Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.836Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.836Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.838Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.838Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.876Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.877Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.878Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.878Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.918Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.918Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.919Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.919Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.959Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.959Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:53.960Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:53.960Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:53.999Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:53.999Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.000Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.000Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.039Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.040Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.041Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.041Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.081Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.081Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.083Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.083Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.122Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.122Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.123Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.123Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.165Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.165Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.166Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.166Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.206Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.206Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.207Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.207Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.247Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.248Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.249Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.249Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.287Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.287Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.289Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.289Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.327Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.328Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.329Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.329Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.367Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.368Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.369Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.369Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.407Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.407Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.408Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.408Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.448Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.448Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.449Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.449Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.490Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.491Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.492Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.492Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.533Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.533Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.534Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.534Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.575Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.575Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.576Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.576Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.616Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.616Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.617Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.618Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.668Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.668Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.669Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.670Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.711Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-09T01:36:54.711Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Strict mode is enabled, find Locator with css=..swal2-html-container in page."}
+{"level":50,"time":"2024-02-09T01:36:54.712Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","err":{"type":"Error","message":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"","stack":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\"\n    at getTextContent (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9366:33)\n    at getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:9380:21)\n    at async PlaywrightServer.getText (C:\\Python312\\Lib\\site-packages\\Browser\\wrapper\\index.js:10603:28)","name":"Error"},"msg":"locator.elementHandle: Unexpected token \".\" while parsing selector \"..swal2-html-container\""}
+{"level":30,"time":"2024-02-09T01:36:54.712Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Error of node method  getText"}
+================= Original suppressed error =================
+locator.elementHandle: Unexpected token "." while parsing selector "..swal2-html-container"
+    at getTextContent (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9366:33)
+    at getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:9380:21)
+    at async PlaywrightServer.getText (C:\Python312\Lib\site-packages\Browser\wrapper\index.js:10603:28) {
+  name: 'Error'
+}
+=============================================================
+{"level":30,"time":"2024-02-09T01:36:54.743Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-09T01:36:54.743Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","Take screenshot with options: ":{"path":"G:\\QAx\\projects\\walkdog-robot\\results\\browser\\screenshot\\fail-screenshot-1.png","fileType":"png","fullPage":false,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-09T01:36:54.902Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-09T01:36:54.975Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:54.977Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:54.979Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:54.983Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:54.985Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active context"}
+{"level":30,"time":"2024-02-09T01:36:54.986Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changing current active page: page=2b751e8a-03be-420c-b7b5-f838140048d6"}
+{"level":30,"time":"2024-02-09T01:36:54.986Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active page"}
+{"level":30,"time":"2024-02-09T01:36:54.997Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:55.004Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:55.006Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-09T01:36:55.007Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-09T01:36:55.009Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-09T01:36:55.010Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-09T01:36:55.012Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changing current active page: page=2b751e8a-03be-420c-b7b5-f838140048d6"}
+{"level":30,"time":"2024-02-09T01:36:55.012Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active page"}
+{"level":30,"time":"2024-02-09T01:36:55.022Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:55.024Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:55.026Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active context"}
+{"level":30,"time":"2024-02-09T01:36:55.026Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changing current active page: page=2b751e8a-03be-420c-b7b5-f838140048d6"}
+{"level":30,"time":"2024-02-09T01:36:55.026Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Changed active page"}
+{"level":30,"time":"2024-02-09T01:36:55.029Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-09T01:36:55.045Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Removed page=8de544ac-c51a-4359-9eba-2fc605a17688 from context=5d7b6ae7-4efa-43be-9bc9-97ddd620df22 page stack"}
+{"level":30,"time":"2024-02-09T01:36:55.058Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-09T01:36:55.066Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:55.066Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-09T01:36:55.128Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-02-09T01:36:55.276Z","pid":17220,"hostname":"DESKTOP-B1M2BI4","msg":"End of node method closeAllBrowsers"}
